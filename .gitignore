@@ -1,0 +1,10 @@
+# Archivos temporales del editor
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de respaldo
+*.bak
+*.tmp
